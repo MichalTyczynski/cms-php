@@ -47,8 +47,5 @@ class Likes {
         return $likes;
 
     }
-
-
 }
-
 ?>
